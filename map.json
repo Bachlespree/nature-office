@@ -1303,6 +1303,11 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
                         }],
                  "type":"tilelayer",
                  "visible":true,
