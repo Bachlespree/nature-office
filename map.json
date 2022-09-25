@@ -2380,12 +2380,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=vEMzc0TmcIE"
+                 "value":"https:\/\/www.youtube.com\/embed\/vEMzc0TmcIE"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                 "value":"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen; accelerometer; autoplay;  encrypted-media; gyroscope; picture-in-picture"
                 }],
          "type":"tilelayer",
          "visible":true,
